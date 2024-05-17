@@ -53,6 +53,10 @@
 
 ###
 
+[![](https://leetcard.jacoblin.cool/SrinivasManikanta?theme=dark)](https://leetcode.com/srinivasmanikanta/)
+
+[![Srinivas's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=21p31a0529)](https://auth.geeksforgeeks.org/user/21p31a0529)
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
