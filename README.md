@@ -55,7 +55,7 @@
 
 [![](https://leetcard.jacoblin.cool/SrinivasManikanta1729?theme=dark)](https://leetcode.com/srinivasmanikanta1729/)
 
-[![Srinivas's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=21p31a0529)](https://auth.geeksforgeeks.org/user/21p31a0529)
+[![Srinivas's GeeksforGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=21p31a0529)](https://auth.geeksforgeeks.org/user/21p31a0529)
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -76,7 +76,19 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/S-1729/S-1729/output/snake.svg" alt="Snake animation" />
+  <div align="center">
+    <h2>🐍 Snake eating my contribution 🐍</h2>
+    <br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+      <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    </picture>
+    <br />
+    <br />
+    <br />
+  </div>
+
 
 ###
 
